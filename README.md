@@ -5,7 +5,7 @@
 
 ## Bad cases (Out of limitation)
 
-[Bad cases](A-devoted-snoopy-accompanying-its-owner-on-a-road-trip_snoopy_5enhanced_6.0_ddim_100_1.0.jpg.png)
+![Bad cases](A-devoted-snoopy-accompanying-its-owner-on-a-road-trip_snoopy_5enhanced_6.0_ddim_100_1.0.jpg.png)
 
 |  | CLIP-Score | CLIP-Acc |
 | --- | --- | --- |
