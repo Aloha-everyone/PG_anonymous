@@ -1,4 +1,4 @@
 # PG_anonymous
 
 ## Pseudo-code
-![pseudo-code](https://github.com/Aloha-everyone/PG_anonymous/blob/main/pseudo-code.pdf)
+![pseudo-code]([https://github.com/Aloha-everyone/PG_anonymous/blob/main/pseudo-code.pdf](https://github.com/Aloha-everyone/PG_anonymous/blob/main/monet_experiments.png))
